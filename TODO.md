@@ -1,6 +1,4 @@
-# Google HashCode 2017 Qualification Round
-
-## TODO
+# TODO
 * add pruning
 
 ## DONE
